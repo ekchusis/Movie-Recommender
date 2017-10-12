@@ -6,7 +6,7 @@
 - Vector A = [a1  a2  a3....an] and Vector B = [b1  b2  b3...bn]
 - We can visualise the above vector as a straight line in two-dimensional space
 
-**Let's understand with the help of a simple example
+**Let's understand with the help of a simple example**
 ```
 A = [4  3] and B = [3  4]
 
@@ -20,6 +20,7 @@ cos(T) = A.B / |A||B|
  - |A|, |B| are the magnitude of A & B
  
 cos(T) = (4*3 + 3*4) / 5*5
+
 cos(T) = 0.96  
 
 ```
