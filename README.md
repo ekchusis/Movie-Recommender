@@ -1,5 +1,20 @@
 # Movie-Recommender
 
+**Collaborative Filtering Approach**
+
+- Item-Item based
+- User-User based
+
+**Matrix-Factorization Approach**
+
+- Singular Value Decomposition
+- Principal Component Analysis
+
+## Similarity Calculation b/w two vectors(users, movies etc)
+
+- Cosine Similarity
+- Pearson Similarity
+
 **Cosine Similarity/Correlation**
 
 - Cosine Similarity is basically 'cosine of the angle between any two vectors'
