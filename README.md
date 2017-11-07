@@ -1,6 +1,10 @@
 # Movie-Recommender
 
+Different approaches/algorithms are used like Collborative Filtering to calculate similarity between users or movies etc. Matrix Factorization Technique is used for identifying the latent factors. Then there are techniques that uses the best of both the approaches. Here I am going to cover the basics.
+
 **Collaborative Filtering Approach**
+
+Two different approaches:
 
 - Item-Item based
 - User-User based
